@@ -33,3 +33,5 @@ Lo que más disfruto es **resolver problemas técnicos complejos**, aprender por
 > Las estadísticas muestran lenguajes detectados en repositorios públicos, no años de experiencia.
 
 **[🌐 Mi portafolio](https://santiagocsm.github.io/portfolio/)** · **[💻 GitHub](https://github.com/santiagoCSM)**
+
+*Perfil anterior: [@santi-cortes](https://github.com/santi-cortes?tab=overview&from=2023-12-01&to=2023-12-31).*
