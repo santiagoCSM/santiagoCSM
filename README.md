@@ -12,18 +12,6 @@ Lo que más disfruto es **resolver problemas técnicos complejos**, aprender por
 - **Plenna:** backend con Python, NLP y automatización de procesos.
 - **B Life:** aplicaciones web, e-commerce e integraciones con GraphQL.
 
-### 🛠️ Tecnologías
-
-- **Lenguajes:** TypeScript, JavaScript, Python, Java, Go, Ruby y SQL.
-- **Desarrollo:** React, Next.js, Node.js, NestJS, Spring Boot, Django y GraphQL.
-- **Datos e infraestructura:** PostgreSQL, PostGIS, MongoDB, Redis, AWS, GCP, Docker y Linux.
-
-### 🚀 Proyectos
-
-- [**Priors**](https://github.com/santiagoCSM/priors) — Investigación cuantitativa y visualización.
-- [**Investment Map**](https://github.com/santiagoCSM/investment_map) — Visualización de información financiera.
-- [**BTC Candles Research**](https://github.com/santiagoCSM/btc_candles_research) — Análisis de datos de Bitcoin.
-
 ### 📊 Lenguajes más utilizados
 
 <p align="center">
